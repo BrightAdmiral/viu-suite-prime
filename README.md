@@ -36,4 +36,4 @@ All-in-one **Viu Suite Prime** workspace solution featuring document editing, ta
 
 ## ⚠️ Disclaimer
 > [!CAUTION]
-> This repository is provided for educational and utility purposes only. Use at your own discretion.
+> This repository is provided for educational and utility purposes only. Use at your own discretion. 
